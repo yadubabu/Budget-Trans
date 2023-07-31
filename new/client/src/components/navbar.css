@@ -1,0 +1,15 @@
+.navbar{
+    list-style: none;
+    justify-content: space-between;
+    text-align: right;
+    align-items: center;
+}
+.head>span{
+    color: rgb(231, 151, 30);
+    cursor: pointer;
+}
+.current{
+    border-radius: 3px;
+    background: rgb(161, 161, 84);
+    color: black;
+}
